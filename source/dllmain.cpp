@@ -1,7 +1,7 @@
 #include <Windows.h>
 #include <iostream>
 
-#include "hook.h"       /* hooking library... currently using the xerox's extremely lightweight one header */
+#include "hook.h"       /* hooking library... */
 
 #include "data.h"       /* however you are choosing to impliment a "database" */
 #include "mem.h"        /* currently just the pattern scanning function */

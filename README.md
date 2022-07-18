@@ -5,10 +5,6 @@ to implement a basic dependency-free server plugin for Steam & Epic games. The a
 hooking game functions is immense, as it allows you not only far more power and customizability, it doesn't
 require players or admins to download any mods. 
 
-This plugin simply tracks and stores the IPs of all connecting and disconnecting players, and would serve to
-either implement an additional IP banning system or prevent players from using two alt accounts
-at the same time if that's something you want...
-
 Usage
 ---------
 If this is something you want to implement, you'd need to do a couple of things
